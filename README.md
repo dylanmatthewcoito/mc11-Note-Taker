@@ -4,7 +4,6 @@
 
 https://note-taker-dc-a0a34efe6010.herokuapp.com/
 
-
 ## Description
 
 The Note Taker application is a web-based tool that allows users to create, view, and delete notes. It provides a simple and intuitive interface for managing personal notes efficiently.
@@ -34,12 +33,5 @@ Overall, the Note Taker application serves as a practical example of building a 
 
 Click the link at the top to start taking your own notes.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
+![Note Taker Homepage](https://github.com/dylanmatthewcoito/mc11-Note-Taker/assets/71201051/62b004be-a2e5-4bb0-8992-4b153d0409d6)
+![Note Taker functionality](https://github.com/dylanmatthewcoito/mc11-Note-Taker/assets/71201051/0c437029-b936-4253-a934-f4ca19ff2027)
